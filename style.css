@@ -1,0 +1,14 @@
+.ibox{
+    background-color:yellowgreen;
+    margin-left:20px;
+}
+body{
+    text-align: center;
+}
+button{
+    border:solid;
+    background-color: tomato;
+    border-radius: 30%;
+    width: 90px;
+    height:40px;
+}
